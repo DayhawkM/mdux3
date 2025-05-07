@@ -1,14 +1,26 @@
 {
   "weights": {
-    "type": "weights",
-    "message": "Got it! I've logged your strength training session for today."
+    "type": "Weights",
+    "plan": [
+      "Day 1: Upper body - bench press, rows, shoulder press.",
+      "Day 2: Lower body - squats, lunges, calf raises.",
+      "Day 3: Rest or light stretching."
+    ]
   },
   "cardio": {
-    "type": "cardio",
-    "message": "Great! I've recorded your cardio workout. Keep that heart pumping!"
+    "type": "Cardio",
+    "plan": [
+      "Day 1: 30 minutes running + 10 minutes cycling.",
+      "Day 2: HIIT session - 20 minutes high intensity intervals.",
+      "Day 3: Active recovery walk or light jog."
+    ]
   },
   "flexibility": {
-    "type": "flexibility",
-    "message": "Excellent! Your flexibility session is now logged. Stay limber!"
+    "type": "Flexibility",
+    "plan": [
+      "Day 1: Yoga flow for hamstrings and hips.",
+      "Day 2: Full body static stretching (20 minutes).",
+      "Day 3: Foam rolling and mobility drills."
+    ]
   }
 }
