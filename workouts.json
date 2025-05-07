@@ -1,0 +1,14 @@
+{
+  "weights": {
+    "type": "weights",
+    "message": "Got it! I've logged your strength training session for today."
+  },
+  "cardio": {
+    "type": "cardio",
+    "message": "Great! I've recorded your cardio workout. Keep that heart pumping!"
+  },
+  "flexibility": {
+    "type": "flexibility",
+    "message": "Excellent! Your flexibility session is now logged. Stay limber!"
+  }
+}
