@@ -1,25 +1,52 @@
 {
-  "intents": [
-    {
-      "name": "LogWorkoutIntent",
-      "slots": [
-        {
-          "name": "WorkoutType",
-          "type": "AMAZON.Literal"
-        },
-        {
-          "name": "Reps",
-          "type": "AMAZON.NUMBER"
-        },
-        {
-          "name": "Weight",
-          "type": "AMAZON.NUMBER"
-        },
-        {
-          "name": "Duration",
-          "type": "AMAZON.TIME"
-        }
-      ]
-    }
-  ]
+  "2025-05-08": {
+    "workoutType": "cardio",
+    "id": "cardio",
+    "synonyms": ["weight loss", "fat loss", "endurance"]
+  },
+  "2025-05-07": {
+    "workoutType": "weights",
+    "id": "weights",
+    "synonyms": ["power", "strength", "resistance"]
+  },
+  "2025-05-06": {
+    "workoutType": "flexibility",
+    "id": "flexibility",
+    "synonyms": ["stretching", "mobility"]
+  },
+  "2025-05-05": {
+    "workoutType": "cardio",
+    "id": "cardio",
+    "synonyms": ["fat loss"]
+  },
+  "2025-05-04": {
+    "workoutType": "weights",
+    "id": "weights",
+    "synonyms": ["resistance"]
+  },
+  "2025-05-03": {
+    "workoutType": "flexibility",
+    "id": "flexibility",
+    "synonyms": ["stretching"]
+  },
+  "2025-05-02": {
+    "workoutType": "cardio",
+    "id": "cardio",
+    "synonyms": ["endurance"]
+  },
+  "2025-05-01": {
+    "workoutType": "weights",
+    "id": "weights",
+    "synonyms": ["power"]
+  },
+  "2025-04-30": {
+    "workoutType": "flexibility",
+    "id": "flexibility",
+    "synonyms": ["mobility"]
+  },
+  "2025-04-29": {
+    "workoutType": "cardio",
+    "id": "cardio",
+    "synonyms": ["weight loss"]
+  }
 }
