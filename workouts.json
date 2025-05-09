@@ -2,51 +2,51 @@
   "2025-05-08": {
     "workoutType": "cardio",
     "id": "cardio",
-    "synonyms": ["weight loss", "fat loss", "endurance"]
+    "synonyms": ["bicycling", "running", "weight loss", "fat loss", "endurance"]
   },
   "2025-05-07": {
     "workoutType": "weights",
     "id": "weights",
-    "synonyms": ["power", "strength", "resistance"]
+    "synonyms": ["weight training", "weightlifting", "power", "strength", "resistance"]
   },
   "2025-05-06": {
     "workoutType": "flexibility",
     "id": "flexibility",
-    "synonyms": ["stretching", "mobility"]
+    "synonyms": ["functional", "stretching", "mobility"]
   },
   "2025-05-05": {
     "workoutType": "cardio",
     "id": "cardio",
-    "synonyms": ["fat loss"]
+    "synonyms": ["bicycling", "running", "fat loss", "endurance", "weight loss"]
   },
   "2025-05-04": {
     "workoutType": "weights",
     "id": "weights",
-    "synonyms": ["resistance"]
+    "synonyms": ["weight training", "resistance", "weightlifting", "power", "strength"]
   },
   "2025-05-03": {
     "workoutType": "flexibility",
     "id": "flexibility",
-    "synonyms": ["stretching"]
+    "synonyms": ["stretching", "functional", "mobility"]
   },
   "2025-05-02": {
     "workoutType": "cardio",
     "id": "cardio",
-    "synonyms": ["endurance"]
+    "synonyms": ["running", "bicycling", "endurance", "fat loss", "weight loss"]
   },
   "2025-05-01": {
     "workoutType": "weights",
     "id": "weights",
-    "synonyms": ["power"]
+    "synonyms": ["strength", "power", "weight training", "weightlifting", "resistance"]
   },
   "2025-04-30": {
     "workoutType": "flexibility",
     "id": "flexibility",
-    "synonyms": ["mobility"]
+    "synonyms": ["mobility", "stretching", "functional"]
   },
   "2025-04-29": {
-    "workoutType": "cardio",
-    "id": "cardio",
-    "synonyms": ["weight loss"]
+    "workoutType": "martial arts",
+    "id": "martial arts",
+    "synonyms": ["brazilian jiujitsu", "muay thai", "boxing"]
   }
 }
